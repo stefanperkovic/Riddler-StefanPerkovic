@@ -57,7 +57,6 @@ public class Riddler {
             String bit = text.substring(i, i+8);
             int val = Integer.parseInt(bit, 2);
             decrypted += (char)(val);
-
         }
         System.out.println(decrypted);
         return decrypted;
