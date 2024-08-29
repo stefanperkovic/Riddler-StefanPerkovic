@@ -1,9 +1,11 @@
 Name: YOUR NAME HERE
 
-| Date   |    Time    |                                                                    Update |
-|:-------|:----------:|--------------------------------------------------------------------------:|
-| Aug 22 |  8-8:30pm  | I started by thinking about my place in the universe.<br/>It was scary... |
-|        |            |                                                             And then I... |
+| Date   |   Time   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Update |
+|:-------|:--------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Aug 23 | 11:30-12 |                                                                                                                                                                                                     I worked with the classmates at my table on trying to decipher the different algorithms. We found the code for the first one and then manually got the whole message. For the second and third ones we had rough ideas that they were ascii and binary values, but we didn't have time to manually check them. |
+| Aug 28 |  7-7:30  | Worked on setting up the Inellij file. Started working on trying to code the first message as I already new what it the solution was. Struggled a bit getting reacllimated to Java and learning the syntax. Felt that my code in the end may have been a bit inefficient, but decide to move on to the next message.
+|Aug 28|  7:30-8  | Started working on coding the second message. I decided to assume that the numbers were ASCII value. Took a bit to readjust to the syntax and to conver the string from the text into seperate ints. Once I got that it was pretty easy to finish it up.
+|Aug 28| 8-8:30 | Looked at the third puzzle and it heavily reminded me of binary. I remember binary notation and that numbers get split into 8 differnt bits. So I grouped every 8 numbers into one number and then took that number and put it into ASCII. This one felt better and easier to code then the first two as I was starting to get the syntax and feel comfortable. Look at the fourth puzzle. but was unable to theorize a solution.
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
